@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDB_Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_list">add_list</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_your_age">Enter your Age</string>
+    <string name="add">ADD</string>
+</resources>
